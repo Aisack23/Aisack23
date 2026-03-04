@@ -6,7 +6,7 @@ I enjoy collaborative work and I’m constantly learning new technologies. I’m
 
 ---
 
-##About Me
+## About Me
 - Currently learning: React, Kotlin, and ESP32 embedded systems, Cybersecurity  
 - Goals: Become a full-stack developer and launch a functional wearable device  
 - Fun fact: Give me a YouTube video and some documentation, and I can master a new skill in just a few days.
