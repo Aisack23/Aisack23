@@ -23,7 +23,7 @@ I enjoy collaborative work and I’m constantly learning new technologies. I’m
 ### Backend & General Logic  
 Python · Java · Kotlin · C++ · PHP  
 
-### 🛠️ I Code With  
+### I Code With  
 <p align="left">
   <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
